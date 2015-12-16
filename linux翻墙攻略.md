@@ -19,6 +19,9 @@ desctiption: 翻墙攻略
 ##翻墙途径
 要说翻墙的途径的话有很多，有很多翻墙软件可已下载，比如说：   
 
+>---更新于2014年12月29日    
+**最新方法推荐，linux下直接更改/etc/hosts文件中的设置，将一大段Ip地址复制进来，根本不用其他复杂的设置就能完成轻松翻墙！！强烈推荐！！可以无视下面方法了！！**
+
 * 免费翻墙软件**[墙内下载](https://s3.amazonaws.com/fqtools/index.html)**，支持各平台。
 * [GAE](https://developers.google.com/appengine/)（Google App Engine） 包括：[GoAgent](https://code.google.com/p/goagent/) ，是使用跨平台语言Python 开发的代理软件，利用GAE的服务器充当代理，帮助用户浏览被封锁的内容。
 * [VPN Gate](http://www.vpngate.net/cn/)  由全世界志愿者提供的公共 VPN 服务器获得自由访问互联网
